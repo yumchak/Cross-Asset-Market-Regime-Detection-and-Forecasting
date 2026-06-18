@@ -61,7 +61,7 @@ both to isolate the contribution of regime information.
 
 ## Key Finding
 
-[Update after running tonight]
+
 
 Adding the HMM regime label as a feature improved walk-forward 
 directional accuracy from X% to Y% versus the baseline model.
@@ -98,24 +98,4 @@ The same pipeline built here, feature engineering from available
 data, unsupervised regime identification, supervised decision 
 support, applies directly to these problems.
 
----
 
-## Tools
-
-Python · hmmlearn · yfinance · XGBoost · scikit-learn · pandas · 
-numpy · matplotlib · scipy · statsmodels
-
----
-
-## Status
-
-In progress · June 2026
-
----
-
-## Next Steps
-
-- Extend to a particle filter for real-time online regime updating
-- Test on non-financial time series including social sector datasets
-- Build a simple Streamlit dashboard for interactive regime 
-  visualisation
