@@ -57,14 +57,7 @@ Run twice: once with raw features only, once with the HMM regime
 label added. Walk-forward accuracy and F1 score compared across 
 both to isolate the contribution of regime information.
 
----
 
-## Key Finding
-
-
-
-Adding the HMM regime label as a feature improved walk-forward 
-directional accuracy from X% to Y% versus the baseline model.
 
 ---
 
