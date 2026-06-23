@@ -105,16 +105,12 @@ of market conditions that individual features cannot fully replicate.
 ## Visualisations
 
 ### 1. SPY Price with HMM-Detected Regimes
-![Regime Chart](images/regime_chart.png)
 
 ### 2. Return Distributions by Regime
-![Return Distributions](images/return_distributions.png)
 
 ### 3. XGBoost Feature Importance
-![Feature Importance](images/feature_importance.png)
 
 ### 4. Walk-Forward Model Comparison
-![Model Comparison](images/model_comparison.png)
 
 ---
 
